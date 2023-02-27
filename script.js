@@ -1,7 +1,7 @@
 
 const salario = Number(prompt("Digite salario atual"))
+const porcentagem = Number(prompt("Digite porcentagem de ajuste"))
 const percentual = Number(percentual)
-const porcentagem
 
 function aumentoSalario(percentual,porcentagem)
 
